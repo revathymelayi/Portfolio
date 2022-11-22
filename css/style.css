@@ -196,6 +196,12 @@ nav ul ul ul li {
 	
 	left:170px; 
 }
+form label{
+    color: red;
+    font-size: 0.8 rem;
+}
+
+
 
 	
 li > a:only-child:after { content: ''; }
